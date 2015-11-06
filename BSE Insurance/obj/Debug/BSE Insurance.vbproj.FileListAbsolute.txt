@@ -1,0 +1,21 @@
+H:\I.T Software Development\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.exe.config
+H:\I.T Software Development\BSE Insurance\BSE Insurance\obj\Debug\BSE_Insurance.frMBBE.resources
+H:\I.T Software Development\BSE Insurance\BSE Insurance\obj\Debug\BSE_Insurance.Resources.resources
+H:\I.T Software Development\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.vbproj.GenerateResource.Cache
+H:\I.T Software Development\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.exe
+H:\I.T Software Development\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.pdb
+H:\I.T Software Development\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.xml
+H:\I.T Software Development\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.exe
+H:\I.T Software Development\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.xml
+H:\I.T Software Development\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.pdb
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.exe.config
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.exe
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.xml
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.pdb
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.exe
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.pdb
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\bin\Debug\BSE Insurance.xml
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.vbprojResolveAssemblyReference.cache
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\obj\Debug\BSE_Insurance.frMBBE.resources
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\obj\Debug\BSE_Insurance.Resources.resources
+D:\Dropbox\IT WOrk\BSE Insurance\BSE Insurance\obj\Debug\BSE Insurance.vbproj.GenerateResource.Cache
